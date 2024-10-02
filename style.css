@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: black;
+  color: aquamarine;
+  height: 60px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.primeiraSessao {
+  border: solid 3px tomato;
+  height: 500px;
+  background-image: url("Img/Fundo Controle.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 40px;
+}
+.primeiraSessao p {
+  width: 350px;
+  margin-top: 20px;
+  line-height: 20px;
+}/*# sourceMappingURL=style.css.map */
